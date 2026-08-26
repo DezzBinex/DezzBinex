@@ -40,5 +40,6 @@ Confira meus projetos e estudos disponíveis nos repositórios abaixo.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white )](www.linkedin.com/in/andrezza-sabino-marinho-3a09ab222)
 
 <p align="center">
-  <img src="./assets_figurinhaandrezza_350px.mp4" alt="Figurinha animada da Andrezza" width="350">
+  <img src="./assets/figurinha_andrezza_350px_leve.gif" alt="Figurinha animada da Andrezza" width="350">
 </p>
+
