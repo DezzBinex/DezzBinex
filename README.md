@@ -1,12 +1,12 @@
-# Olá! Eu sou a Andrezza Sabino
+# Olá! Eu sou a Andrezza Sabino 👋
 
-### Tecnóloga em Análise e Desenvolvimento de Sistemas
+###🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas
 
 Sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória na área de tecnologia. Tenho interesse em desenvolvimento de software, soluções digitais, banco de dados e melhoria de processos.
 
 Minha experiência profissional também contribuiu para o desenvolvimento de competências como organização, comunicação, resolução de problemas, atendimento ao cliente, trabalho em equipe e aprendizagem rápida.
 
-## Atualmente estudando
+##📚 Atualmente estudando
 
 - Python
 - SQL e bancos de dados
@@ -14,7 +14,7 @@ Minha experiência profissional também contribuiu para o desenvolvimento de com
 - Lógica de programação
 - Git e GitHub
 
-## Competências
+##💼 Competências
 
 - Organização e análise de informações
 - Resolução de problemas
@@ -22,7 +22,7 @@ Minha experiência profissional também contribuiu para o desenvolvimento de com
 - Atendimento e suporte ao usuário
 - Planejamento e acompanhamento de atividades
 
-## Tecnologias
+##🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white )
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white )
@@ -31,10 +31,10 @@ Minha experiência profissional também contribuiu para o desenvolvimento de com
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black )
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white )
 
-## Projetos
+##🚀 Projetos
 
 Confira meus projetos e estudos disponíveis nos repositórios abaixo.
 
-## Contato
+##📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white )](www.linkedin.com/in/andrezza-sabino-marinho-3a09ab222)
